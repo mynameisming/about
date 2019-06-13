@@ -49,7 +49,7 @@ I’m usually up by 4am so that I can lift heavy things in my garage.  I do this
 My calendar might look full, but if you need to talk to me, crash my calendar and I will try and make time for you.   I do reserve time on the calendar for “thinking and creating.” 
 
 ## My random facts: 
-I was born in a cold desert in China and 20 years later I was attacked by a bear in Colorado. I have trained in martial arts with a high level of discplin, over a very long period of time. But that's not why I live to tell the tale. 
+I was born in a cold desert in China and 20 years later I was attacked by a bear in Colorado. I have trained in martial arts with a high level of discipline, over a very long period of time. But that's not why I live to tell the tale. 
 
 ---
 
