@@ -1,15 +1,27 @@
 # MingGong.README ( 4 minute read )
 
-I’m Ming Gong.  Smarter people than me started creating these README documents to help codify their working principles and accelerate the health and value of their working relationships.  This is my README.  
+I’m Ming Gong. 
+
+Smarter people than me started creating these README documents to help codify their working principles and accelerate the health and value of their working relationships. 
+
+Many of these ideas may not be original but this is my README. 
+ 
  
 ## My Philosophy
-I believe in people.  I believe the best programming language is the English language.  I strive to contribute to an environment of trust and safety to foster open minds and idea diversity.  I believe by doing so, people are more likely to be happy, collegial, and inspired, which leads to the building of amazing products.
- 
-I practice M.R.I.  It means the “most respectful interpretation” of what someone is saying.   We are all human. We each have a unique history with different perspectives and vulnerabilities.  I believe as a team, we are obliged to believe that everyone wants to help and is operating in good faith.  
+I believe in listening.
 
-If you get people talking and challenging each other, and you apply M.R.I, I believe it increases the speed and ease of arriving at the right decision / outcome. 
+I believe the best programming language is the English language.
 
-I prefer working with people who focus on the company’s needs vs. their own personal brand.  I’d prefer to solve the problem as opposed to being right.
+I strive to contribute to an environment of trust, transparency, and idea diversity. I believe by debating our ideas, from our unique perspectives, we can create solutions far richer than any individual’s genius. 
+
+Disagreements should yield action.
+
+I believe in autonomy. It makes people happier, more collegial and inspired. 
+
+I prefer to focus on the greater goal versus personal brand. I prefer to work with people who feel the same way. 
+
+I’d prefer to solve the problem as opposed to being right.
+
 
 ## My Role
 As Product Manager I expect to be measured by the success of the product and the ecosystem around it ( “whole product” ).  That may include increasing revenue, bookings, client / user satisfaction and team engagement.  In simpler terms, I am responsible for making things better.   
@@ -44,9 +56,13 @@ I believe regular stand ups and demos are great for keeping the product moving f
 Demos are not only for showing off shiny UX.  It’s valuable to see the new API in Postman or the new piece of sales collateral.  I believe demos are the best way to drive progress, collaborate, celebrate, socialize and pressure test solutions to problems at any level  in any part of the product.
  
 ## My schedule:    
-I’m usually up by 4am so that I can lift heavy things in my garage.  I do this so that by the time my two year old daughter wakes up I can look like a model citizen and a champion against gravity.   I don’t like to read messages outside of 8a - 6p, but if something is urgent and important, I hope I am notified via SMS so I can help.  
+I’m usually up by 4am to lift heavy things in my garage.  I do this so that by the time my daughters wakes up I can look like a model citizen and a champion against gravity. 
 
-My calendar might look full, but if you need to talk to me, crash my calendar and I will try and make time for you.   I do reserve time on the calendar for “thinking and creating.” 
+I am usually not reachable after 8pm, but if something is urgent and important, I hope I am notified via SMS so I can help.  
+
+My calendar might look full, but if you need to talk to me, crash my calendar and I will try and make time for you.   
+
+In the age where instant communication is an expectation, but where there are also real costs associated with context switching, I necessarly reserve time for deep work. Let me know if you know another way to increase the quality of your work.
 
 ## My random facts: 
 I was born in a cold desert in China and 20 years later I was attacked by a bear in Colorado. I have trained in martial arts with a high level of discipline, over a very long period of time. But that's not why I live to tell the tale. 
