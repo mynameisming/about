@@ -20,7 +20,7 @@ I believe in autonomy. It makes people happier, more collegial and inspired.
 
 I prefer to focus on the greater goal versus personal brand. I prefer to work with people who feel the same way. 
 
-I’d prefer to solve the problem as opposed to being right.
+I’d rather solve problems as opposed to being right.
 
 
 ## My Role
