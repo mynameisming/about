@@ -56,20 +56,23 @@ I believe regular stand ups and demos are great for keeping the product moving f
 Demos are not only for showing off shiny UX.  It’s valuable to see the new API in Postman or the new piece of sales collateral.  I believe demos are the best way to drive progress, collaborate, celebrate, socialize and pressure test solutions to problems at any level  in any part of the product.
  
 ## My schedule:    
-I’m usually up by 4am to lift heavy things in my garage.  I do this so that by the time my daughters wakes up I can look like a model citizen and a champion against gravity. 
+I’m usually up by 4am to lift heavy things in my garage. I do this so that by the time my daughters wake up I can look like a model citizen and a champion against gravity. 
 
-I am usually not reachable after 8pm, but if something is urgent and important, I hope I am notified via SMS so I can help.  
+I am usually not reachable after 8pm, but if something is urgent and important, I hope I am notified via SMS so I can help. 
 
-My calendar might look full, but if you need to talk to me, crash my calendar and I will try and make time for you.   
+My calendar might look full, but if you need to talk to me, crash my calendar and I will try and make time for you. 
 
-In the age where instant communication is an expectation, but where there are also real costs associated with context switching, I necessarly reserve time for deep work. Let me know if you know another way to increase the quality of your work.
+I necessarily reserve time for deep work to focus. In our industry and in this age, instant communication is an expectation, but context switching incurs real costs to quality of work. Let me know if you know another way to increase the quality of your work.
+
 
 ## My random facts: 
-I was born in a cold desert in China and 20 years later I was attacked by a bear in Colorado. I have trained in martial arts with a high level of discipline, over a very long period of time. But that's not why I live to tell the tale. 
+I was born in a cold desert in China. Almost 20 years later I was attacked by a bear in Colorado. I have trained in martial arts with a high level of discipline, over a long period of time. But that's not why I live to tell the tale. 
 
 ---
 
-Thank you for investing your time in me and our success by reading this document.
+Thank you for reading. 
 
--Ming
+Be well, do good work, and keep in touch.
+
+-M
  
