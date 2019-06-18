@@ -28,7 +28,7 @@ As a Product Manager, I answer to the goals of the company by making things bett
 
 Quality decisions are the most important output for a PM. These decisions are made by considering a variety of factors including customer feedback, Market POV, product strategy, company, and business goals, feasibility, and value. Often these factors compete, there will be debate, and that is when the gig gets fun. 
  
-Simply said, we make decisions that answer two questions, “Will this win customers and will we bring them delight?”
+Simply said, we make decisions that answer two questions, “will this win customers and will we bring them delight?”
  
 ## My 3 responsibilities: 
 1. Vision:  I am responsible for formulating and evangelizing the relevant problems to be solved and the unique solution by which the company will win the market.  E.g. 2-5 year strategy / tactics.
