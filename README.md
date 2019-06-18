@@ -10,7 +10,7 @@ Many of these ideas may not be original but this is my README.
 ## My Philosophy
 I believe in listening.
 
-I believe the best programming language is the English language.
+I believe EQ is the most valuable capital. 
 
 I strive to contribute to an environment of trust, transparency, and idea diversity. I believe by debating our ideas, from our unique perspectives, we can create solutions far richer than any individual’s genius. 
 
@@ -24,11 +24,11 @@ I’d rather solve problems as opposed to being right.
 
 
 ## My Role
-As Product Manager I expect to be measured by the success of the product and the ecosystem around it ( “whole product” ).  That may include increasing revenue, bookings, client / user satisfaction and team engagement.  In simpler terms, I am responsible for making things better.   
+As a Product Manager, I answer to the goals of the company by making things better for customers and by bettering business outcomes. The best part of my job is that I collaborate with, mentor, and learn from folks across the company. Some days I wear my “design hat” to walk through complex design problems with our designers, or I might work closely with engineers to decide proper delivery tactics on an API, and on another day I might work with sales to engage directly with a prospective customer. On the best days, we win and win as a team. 
 
-I view the PM as the quarterback of the product.  PM’s do not own the stadium, draft the team, or pay anyone’s salary.  But PM’s are tasked with understanding the field ( market / competition ), influencing, understanding, and executing the playbook ( strategy / tactics / features ) and giving the ball to the runnings back / wide receivers ( sales / marketing / engineering / services ) to score touchdowns ( new clients / features / value ).   If you do so the score will take care of itself  
+Quality decisions are the most important output for a PM. These decisions are made by considering a variety of factors including customer feedback, Market POV, product strategy, company, and business goals, feasibility, and value. Often these factors compete, there will be debate, and that is when the gig gets fun. 
  
-I see the team and the playbook as the “whole product”.  I expect to cut across all functional areas of the business to succeed.  When I see large or small problems anywhere in the product, I like to fix it with the help of the entire business. I want to do the right thing and will constantly ask things like “Why are we doing this and why now?” /  “Does this help us win new business?” /  “Does this help us scale or increase our margins?”  / “Does this make life better for our users?”
+Simply said, we make decisions that answer two questions, “Will this win customers and will we bring them delight?”
  
 ## My 3 responsibilities: 
 1. Vision:  I am responsible for formulating and evangelizing the relevant problems to be solved and the unique solution by which the company will win the market.  E.g. 2-5 year strategy / tactics.
@@ -47,13 +47,7 @@ I prefer the following hierarchy of communication:  Face to Face > Video Confere
 
 My favorite environment is sitting with a team, discussing and sharing what we’re doing, arguing about the real problem and attacking it through a combination of software, people and process.
 
-
 I’m not a big fan of emails, especially “ping-pong” email chains. I prefer things with URLs ( e.g. Google docs / Dropbox ). If I do use email, I try to make it quick with easy requests.   If I need someone’s attention on something with a high level of urgency, I won’t be expecting someone to find that out by checking their email.
-
-## My preferred rituals: 
-I believe regular stand ups and demos are great for keeping the product moving forward.  I believe standups are effective when the focus is on the baton and not the runners.  The stories should do the talking.  In an ideal environment, all core contributors of the product are in the standup.  
-
-Demos are not only for showing off shiny UX.  It’s valuable to see the new API in Postman or the new piece of sales collateral.  I believe demos are the best way to drive progress, collaborate, celebrate, socialize and pressure test solutions to problems at any level  in any part of the product.
  
 ## My schedule:    
 I’m usually up by 4am to lift heavy things in my garage. I do this so that by the time my daughters wake up I can look like a model citizen and a champion against gravity. 
